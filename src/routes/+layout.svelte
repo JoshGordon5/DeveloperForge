@@ -1,7 +1,7 @@
 <script>
 	import '../tailwind.css';
 	import Nav from '../components/Nav.svelte';
-	import { MY_TWITTER_HANDLE, MY_YOUTUBE, REPO_URL, SITE_TITLE } from '$lib/siteConfig';
+	import { MY_TWITTER_HANDLE, REPO_URL, SITE_TITLE } from '$lib/siteConfig';
 </script>
 
 <svelte:head>
@@ -27,9 +27,7 @@
 			<a class="text-gray-500 transition hover:text-gray-300" href="/">Home</a>
 			<a class="text-gray-500 transition hover:text-gray-300" href="/about">About</a>
 			<a class="text-gray-500 transition hover:text-gray-300" href="/#newsletter">Newsletter</a>
-			<a class="text-gray-500 transition hover:text-gray-300" href="/rss.xml" rel="external">
-				RSS
-			</a>
+			
 		</div>
 		<div class="flex flex-col space-y-4">
 			<a
@@ -48,13 +46,8 @@
 			>
 				GitHub
 			</a>
-			<a
-				class="text-gray-500 transition hover:text-gray-300"
-				target="_blank"
-				rel="noopener noreferrer"
-				href={MY_YOUTUBE}
-			>
-				YouTube
+			<a class="text-gray-500 transition hover:text-gray-300" href="/rss.xml" rel="external">
+				RSS
 			</a>
 		</div>
 	</div>

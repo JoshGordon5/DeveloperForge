@@ -53,23 +53,28 @@
 				!
 			</h1>
 			<h2 class="mb-4 text-gray-700 dark:text-gray-200">
-				An opinionated blog starter for <span class="font-semibold"
-					>SvelteKit + Tailwind + Netlify.</span
-				>
-				Refreshed
-				<a href="https://github.com/sveltejs/kit/discussions/5774"
-					>the great SvelteKit redesign of Summer 2022</a
-				>
+				Discover more about software development 
+				best practices and read opinion pieces on the software eco-system.
 			</h2>
-			<p class="mb-16 text-gray-600 dark:text-gray-400">
-				<a href={REPO_URL}>View source here!</a>
-			</p>
+			
 		</div>
 		<!-- <div
 				class="w-[80px] h-[80px] rounded-full sm:w-[176px] sm:h-[136px] relative mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"
 			/> -->
 	</div>
 
+	<section class="w-full mb-16">
+		<h3 class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
+			Featured Projects
+		</h3>
+		<div class="flex flex-col gap-6 md:flex-row">
+			<FeatureCard title="30 Projects" href="https://30-projects.com"  />
+			<FeatureCard title="Array Cheatsheet" href="https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf"/>
+				
+			
+			
+		</div>
+	</section>
 	<section class="w-full mb-16">
 		<h3 class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			Featured Posts
