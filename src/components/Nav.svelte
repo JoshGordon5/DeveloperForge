@@ -41,6 +41,9 @@
 		<li>
 			<NavLink href="/about">About</NavLink>
 		</li>
+		<li>
+			<NavLink href="/learning">Learning Materials</NavLink>
+		</li>
 	</ul>
 	<div class="flex items-center space-x-4">
 		<!-- RSS -->

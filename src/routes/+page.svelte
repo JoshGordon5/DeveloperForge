@@ -67,20 +67,23 @@
 		<h3 class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			Featured Projects
 		</h3>
+		<h2 class="mb-4 text-gray-700 dark:text-gray-200">
+			Want to see what i've been working on recently? Check out some of 
+			my featured projects below!
+		</h2>
 		<div class="flex flex-col gap-6 md:flex-row">
 			<FeatureCard title="30 Projects" href="https://30-projects.com"  />
 			<FeatureCard title="Array Cheatsheet" href="https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf"/>
-				
-			
-			
 		</div>
-	</section>
+	
+		<br>
+
 	<section class="w-full mb-16">
 		<h3 class="mb-6 text-2xl font-bold tracking-tight text-black dark:text-white md:text-4xl">
 			Featured Posts
 		</h3>
 		<div class="flex flex-col gap-6 md:flex-row">
-			<FeatureCard title="Welcome to swyxkit 2022!" href="/welcome" stringData="Jan 2022" />
+			<FeatureCard title="Welcome to testing 2022!" href="/test" stringData="Oct 2022" />
 			<FeatureCard
 				title="Moving to a GitHub CMS"
 				href="/moving-to-a-github-cms"

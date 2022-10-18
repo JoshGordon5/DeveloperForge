@@ -1,4 +1,4 @@
-//export const SITE_URL = 'https://swyxkit.netlify.app';
+export const SITE_URL = 'https://swyxkit.netlify.app';
 export const APPROVED_POSTERS_GH_USERNAME = ['JoshGordon5'];
 export const GH_USER_REPO = 'JoshGordon5/DeveloperForge'; // used for pulling github issues and offering comments
 export const SITE_TITLE = 'DeveloperForge';

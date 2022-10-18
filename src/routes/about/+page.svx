@@ -1,3 +1,38 @@
 # About Me!
 
-				
+Hi, my names Kealan Parr. I'm a Senior Fullstack Developer at Amberlabs, with five years experience.
+
+A few years ago I was finishing my Biology degree and had to do some basic programming for my Biological data. I ended up more interested in programming than collecting the biological data.
+
+I knew I had to side step into coding.
+
+So I finished my Biology degree with a first class honours, and started working through freeCodeCamp certifications. You can view them here, here and here
+
+Whilst I was at University, I also joined the Royal Naval Reserves and attained a foundation degree from the Chartered Management Institute in Business Administration and Management.
+
+I then worked at bet365 on a placement for 2 years as a Junior Software Engineer, was kept on past my placement, promoted to Software Engineer and left after around 4 years there.
+
+I also have a side business where I do paid technical writing you can learn more here
+
+The languages I know and love are: JavaScript/TypeScript, React, go, Node and Swift.
+
+I have a collection of side projects I enjoy doing/did to learn something new:
+
+- I transcribe images on Reddit, for visually impaired people to ensure images are accessible.
+- I have a profitable side-business where I do consultancy. Primarily writing of technical articles, reviewing of technical articles and software development. My articles have been viewed by more than 300,000 people with a total read time greater than 20,000 hours.
+- I created a repo called "Every link I wish I had as a beginner"- which details a host of useful links and resources to help less experienced developers. This has a CRON job to run a Node script monthly, to ensure none of the links undergo link rot
+- I made a basic JavaScript script to automate playing the offline Chrome dino game (that link only works in Chrome!)
+- I have a personal site I keep updated with what I'm upto
+- When I was first learning Go and Docker, I made a golang blog that connects to a containerised Database
+- I was fascinated with Path finding algorithms, so I implemented Djikstra and A*. I then made Conways Game of Life
+- DeveloperForge is updated by me, a Next.JS Static Site
+- I made a website to solve Einsteins Riddle
+- As part of an interview process, I made a candidate-checker in go. Try typing "kealan parr" into the box! Or try "joe bloggs" as another example.
+
+I love to keep upto date with the software field in general, and am a member of ACM and the Unicode Consortium
+
+Outside of work, I love to do gymnastics, play chess and read.
+
+Thank you for reading!
+
+		
