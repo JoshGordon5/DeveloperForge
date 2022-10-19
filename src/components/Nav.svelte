@@ -42,7 +42,13 @@
 			<NavLink href="/about">About</NavLink>
 		</li>
 		<li>
-			<NavLink href="/learning">Learning Materials</NavLink>
+			<NavLink href="/learning">How to learn </NavLink>
+		</li>
+		<li>
+			<NavLink href="https://30-projects.com">30 Projects</NavLink>
+		</li>
+		<li>
+			<NavLink href="https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf">Array Cheatsheet</NavLink>
 		</li>
 	</ul>
 	<div class="flex items-center space-x-4">
