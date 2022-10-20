@@ -100,7 +100,7 @@
 				<a
 					class="flex w-auto pb-4"
 					on:click={() => setTimeout(() => (isOpen = false), 300)}
-					href="/#">How to learn</a
+					href="/learning">How to learn</a
 				>
 			</li>
 			<li
@@ -121,16 +121,6 @@
 					class="flex w-auto pb-4"
 					on:click={() => setTimeout(() => (isOpen = false), 300)}
 					href="https://30-projects.com">30 Projects</a
-				>
-			</li>
-			<li
-				class="border-b border-gray-300 font-semibold text-gray-900 dark:border-gray-700 dark:text-gray-100"
-				style="transition-delay: 400ms;"
-			>
-				<a
-					class="flex w-auto pb-4"
-					on:click={() => setTimeout(() => (isOpen = false), 300)}
-					href="https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf">Array Cheatsheet</a
 				>
 			</li>
 			<li

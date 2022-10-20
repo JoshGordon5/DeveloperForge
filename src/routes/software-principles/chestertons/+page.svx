@@ -1,0 +1,21 @@
+The normal flow of another developer QA'ing your code is that they read the code, raise any issues they see with you or explain why they think the way you've fixed an issue, is the wrong way.
+
+Sometimes when asking questions, they may ask you something you're not sure about.
+
+But why did we need that class before you deleted it in your merge request?
+
+"Oh.. I don't know why that class was added in the first place. I tested my work though and we definitely don't need it. It isn't doing anything, and the code works now"
+
+Is that a good enough response? The developer said they've tested their code, and it does now work.
+
+Chesterton's Fence is the perfect application to this situation.
+
+Unless we can understand why something was initially the way it was, we can actually make things worse! Not better!
+
+Maybe that class is only used during certain parts of the year (yes it does nothing now, but when it comes to Christmas and we have the hero banner image on the hompage it now won't work because you deleted the class that appends it!) Or maybe yes it isn't doing anything right now, but it's an important class that in the future (when another codebase release their code next week) will be hugely beneficial to stop your codebase error'ing as the new team has changed the data contract you both have.
+
+If we don't understand why something was done, we can't make accurate, data based decision on what to do next.
+
+So if the developer can't answer exactly why the class was first added and the problem it solves, Chestertons Fence teaches us to ask the developer to probe deeper, and not be so hasty in making their changes even if it does work.
+
+NB. I hope I have explained this well enough for you to understand, but the name Chesteron's Fence often has a similar parable/quote accompanying it everytime it's explained, so let me also ensure you know it.
