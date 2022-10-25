@@ -1,5 +1,7 @@
-Premature optimization is the root of all evil (or at least most of it) in programming
-Donald Knuth
+<h1> Knuth's Law </h1>
+
+<i>Premature optimization is the root of all evil (or at least most of it) in programming
+Donald Knuth</i>
 
 When you make an application, it makes sense to want to ensure it's fast.
 
@@ -13,7 +15,7 @@ If your small side project is still buggy, doesn't work fully yet and is still i
 
 But why? You may end up locking yourself into weird or un-intuitive design decisions because you think it's necessary for your app to be fast.
 
-Normally what happens in the software developemnt lifecycle, is developers: make it work, make it right, make it fast (attributed to Kent Beck).
+Normally what happens in the software developemnt lifecycle, is developers: <i>make it work, make it right, make it fast</i> (attributed to Kent Beck).
 
 Meaning developers: make the application work first. Then they add comments, clean up any weird hacks they did, ensure it's consistent and fix any code smells or issues they see second. Then only thirdly, make it fast.
 

@@ -130,7 +130,7 @@
 				<a
 					class="flex w-auto pb-4"
 					on:click={() => setTimeout(() => (isOpen = false), 300)}
-					href="https://github.com">Github</a
+					href="/software-principles">Software Principles</a
 				>
 			</li>
 			<!-- <li

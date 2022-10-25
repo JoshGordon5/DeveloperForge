@@ -1,0 +1,24 @@
+<h1>How to learn go </h1>
+
+Start with a **[Tour of Go](https://go.dev/tour/welcome/1)** , and solve all the challenges
+
+Then just begin reading Effective Go and Go by Example
+
+The above steps were inspired by Jeff Hodges
+
+I found this overview very useful
+
+I also spent some time reading through the docs
+
+At this point, I'd recommend just building and breaking things, specifically:
+
+Experimenting, breaking and deploying: https://github.com/heroku/go-getting-started
+Make an endpoint to recieve a string, and return the sum of all the characters unicode code-points
+Make a go connect to a containerised database
+If the above sounds too intimidating, you can code along your first app here
+
+I found it very useful to just read lots and lots of good go code, example code can be found at compose-cli or cli or just the go standard library
+
+I also found it useful to read How to Write Go Code
+
+And I also have heard lots of good things about learning go

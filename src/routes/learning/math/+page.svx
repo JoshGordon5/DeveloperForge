@@ -1,0 +1,6 @@
+<h1>How to learn Math </h1>
+
+
+If you want to learn math for comp sci, or for your own enjoyment I would:
+
+Work through **[Khan Academy](https://www.khanacademy.org/math)** - where you can pick which age you want to start with.

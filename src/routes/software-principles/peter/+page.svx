@@ -1,4 +1,6 @@
-The Peter Principle is a concept in management that people rise to their "maximum level of incompetence", essentially meaning people get promoted to the point where they are useless/poor at their job.
+<h1>Peter Principle</h1>
+
+The Peter Principle is a concept in management that people rise to their **["maximum level of incompetence"](https://en.wikipedia.org/wiki/Peter_principle)**, essentially meaning people get promoted to the point where they are useless/poor at their job.
 
 How does this come about?
 
@@ -8,7 +10,7 @@ But there's no promises you might be good at this new role. Oftentimes, it will 
 
 Or if you are good, maybe the next promotion puts you in an even more senior position, where these skills are vastly different and now you're rubbish!
 
-Eventually, the theory is that everyone hits their ["Peter Plateau"] (https://en.wikipedia.org/wiki/Peter_principle) where they won't be promoted again, as they aren't performing well anymore.
+Eventually, the theory is that everyone hits their ["Peter Plateau"] (**[https://en.wikipedia.org/wiki/Peter_principle](https://en.wikipedia.org/wiki/Peter_principle)**) where they won't be promoted again, as they aren't performing well anymore.
 
 The Peter Principle has a lot of interesting research online, and is interesting to read different theorists all discuss it online.
 

@@ -1,0 +1,22 @@
+<h1>Software Principles </h1>
+<p>The way you develop & think about software is influenced by the principles you're aware of.
+
+- <a href="/software-principles/bikeshedding">Bikeshedding or the Law of Triviality</a>
+- <a href="/software-principles/brooks"> Brook's </a>
+- <a href="/software-principles/chestertons">Chesterton's Fence</a>
+- <a href="/software-principles/conways">Conway's</a>
+- <a href="/software-principles/demeters">Demeter's Law or the Principle of Least Knowledge</a>
+- <a href="/software-principles/galls">Gall's</a>
+- <a href="/software-principles/hofstadters">Hofstadter's</a>
+- <a href="/software-principles/hollywood-principle">Hollywood Principle</a>
+- <a href="/software-principles/jakobs">Jakob's</a>
+- <a href="/software-principles/knuths">Knuth's</a>
+- <a href="/software-principles/linus">Linus's</a>
+- <a href="/software-principles/murphys">Murphy's</a>
+- <a href="/software-principles/norvigs">Norvig's</a>
+- <a href="/software-principles/paretos">Pareto's Principle or the 80/20 Rule</a>
+- <a href="/software-principles/peter">Peter Principle</a>
+- <a href="/software-principles/postels">Postel's</a>
+- <a href="/software-principles/wirths">Wirth's</a>
+
+<br>

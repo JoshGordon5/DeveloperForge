@@ -59,7 +59,7 @@
 				you may find useful and interesting. Below, you'll find some of my features blog posts but 
 				please follow the link at the top to find all of my blog pieces.<br>
 			</h2>
-			
+			<a href="/blog">Here</a>
 		</div>
 		<!-- <div
 				class="w-[80px] h-[80px] rounded-full sm:w-[176px] sm:h-[136px] relative mb-8 sm:mb-0 mr-auto bg-cyan-300 bg-opacity-25"
@@ -97,7 +97,7 @@
 		</ul>
 		<a
 			class="flex h-6 mt-2 leading-7 text-gray-600 transition-all rounded-lg dark:text-gray-400 dark:hover:text-gray-200"
-			href="/ideas"
+			href="/blog"
 			>Search and see all posts<svg
 				xmlns="http://www.w3.org/2000/svg"
 				fill="none"

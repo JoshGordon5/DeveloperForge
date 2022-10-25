@@ -1,4 +1,6 @@
-The Pareto Principle is simply described as 80% of the results, comes from 20% of the effort. The other 20% of the effort comes from 80% of the effort.
+<h1>Pareto's Principle or the 80/20 Rule</h1>
+
+The Pareto Principle is **[simply described as](https://en.wikipedia.org/wiki/Pareto_principle)** 80% of the results, comes from 20% of the effort. The other 20% of the effort comes from 80% of the effort.
 
 Vilfredo Pareto was the person who discovered this, when he realised that 80% of all property in Italy is owned by 20% of the population. He theorised that this rule would carry across multiple other fields.
 

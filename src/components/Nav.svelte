@@ -25,9 +25,9 @@
 </script>
 
 <nav
-	class="relative mx-auto flex w-full max-w-2xl items-center justify-between border-gray-200
+	class="relative mx-auto flex w-full max-w-4xl items-center justify-between border-gray-200
 	bg-gray-50 bg-opacity-60 py-8 text-gray-900 dark:border-gray-700 dark:bg-gray-900
-	dark:text-gray-100 sm:pb-16"
+	dark:text-gray-100 sm:pb-16 pr-16" 
 >
 	<a href="#skip" class="skip-nav">Skip to content</a>
 	<MobileMenu />
@@ -49,6 +49,9 @@
 		</li>
 		<li>
 			<NavLink href="https://kealanparr.com/assets/misc/JavaScript-Array-Cheatsheet.pdf">Array Cheatsheet</NavLink>
+		</li>
+		<li>
+			<NavLink href="/software-principles">Software Principles</NavLink>
 		</li>
 	</ul>
 	<div class="flex items-center space-x-4">

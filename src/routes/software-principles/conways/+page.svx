@@ -1,3 +1,14 @@
+<h1>Conway's Law</h1>
+
+<hr>
+
+<h3>Any organization that designs a system (defined broadly) will produce a design whose 
+structure is a copy of the organization's communication structure.</h3>
+
+Melvin E. Conway
+
+<hr>
+
 Conway's Law states that technical teams will produce code and architecture that mirrors the companies communication channels/organisation of teams.
 
 For example, if you work in a large 200 person team, with rather disjointed communication mechanisms between all the developers, the code will look something like a huge monolith codebase with random different parts communicating in disjointed ways, with little consistency.

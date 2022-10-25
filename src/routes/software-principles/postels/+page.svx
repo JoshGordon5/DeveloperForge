@@ -1,4 +1,6 @@
-Postel's Law or The Robustness Principle, is simply defined as "be conservative in what you send, be liberal in what you accept"
+<h1>Postel's Law or The Robustness Principle</h1>
+
+Postel's Law or The Robustness Principle, is **[simply defined](https://en.wikipedia.org/wiki/Robustness_principle)** as "be conservative in what you send, be liberal in what you accept"
 
 The application is, whenever machines need to talk to one-another, that they should accept messages that might not be perfectly formatted but the intention/message is clear, but should be very rigid in what they send.
 

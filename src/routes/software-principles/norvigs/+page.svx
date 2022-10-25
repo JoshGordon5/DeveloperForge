@@ -1,4 +1,6 @@
-Norvig's Law states "Any technology that surpasses 50% penetration will never double again"
+<h1>Norvig's Law </h1>
+
+Norvig's Law states **["Any technology that surpasses 50% penetration will never double again"](https://norvig.com/norvigs-law.html)**
 
 Oftentimes, in rapid growth items like software adoption or stock prices, people excitedly report "it grew by 50%!"
 

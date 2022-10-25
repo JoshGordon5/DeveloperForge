@@ -54,10 +54,9 @@
 		{#if isNewsletterOpen}
 			<p class="my-1 text-gray-800 dark:text-gray-200">
 				Get emails from me about <span class="font-bold"
-					>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, ducimus.</span
-				>.
+					>My most up to date projects and articles.</span>
 			</p>
-			<form class="relative my-4" on:submit={onSubmit}>
+			<form class="relative my-4" action="https://www.getrevue.co/profile/phoenixwebdev22/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
 				<input
 					type="email"
 					aria-label="Email for newsletter"
@@ -67,32 +66,12 @@
 					class="mt-1 block w-full rounded-md border-gray-300 bg-white px-4 py-2 pr-32 text-gray-900 focus:border-blue-500 focus:ring-blue-500 dark:bg-gray-800 dark:text-gray-100"
 				/><button
 					class="absolute right-1 top-1 flex h-8 w-28 items-center justify-center rounded bg-gray-100 px-4 pt-1 font-medium text-gray-900 dark:bg-gray-700 dark:text-gray-100"
-					type="submit">Subscribe</button
+					type="submit" value="Subscribe" name="member[subscribe]" id="member_submit" >Subscribe</button
 				>
 			</form>
 			<p class="text-sm text-gray-800 dark:text-gray-200">
-				3 subscribers including my Mom – <a href="/#newsletter">23 issues</a>
+				By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.
 			</p>
 		{/if}
 	</div>
 </section>
-<div id="revue-embed">
-	<form action="https://www.getrevue.co/profile/phoenixwebdev22/add_subscriber" method="post" id="revue-form" name="revue-form"  target="_blank">
-	<div class="revue-form-group">
-	  <label for="member_email">Email address</label>
-	  <input class="revue-form-field" placeholder="Your email address..." type="email" name="member[email]" id="member_email">
-	</div>
-	<div class="revue-form-group">
-	  <label for="member_first_name">First name <span class="optional">(Optional)</span></label>
-	  <input class="revue-form-field" placeholder="First name... (Optional)" type="text" name="member[first_name]" id="member_first_name">
-	</div>
-	<div class="revue-form-group">
-	  <label for="member_last_name">Last name <span class="optional">(Optional)</span></label>
-	  <input class="revue-form-field" placeholder="Last name... (Optional)" type="text" name="member[last_name]" id="member_last_name">
-	</div>
-	<div class="revue-form-actions">
-	  <input type="submit" value="Subscribe" name="member[subscribe]" id="member_submit">
-	</div>
-	<div class="revue-form-footer">By subscribing, you agree with Revue’s <a target="_blank" href="https://www.getrevue.co/terms">Terms of Service</a> and <a target="_blank" href="https://www.getrevue.co/privacy">Privacy Policy</a>.</div>
-	</form>
-  </div>

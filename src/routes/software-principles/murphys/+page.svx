@@ -1,4 +1,6 @@
-Murphys Law is a simple law that states "anything that can go wrong, will go wrong"
+<h1>Murphy's Law </h1>
+
+Murphys Law is a simple law that states "anything that can go wrong, <i>will</i> go wrong"
 
 Generally, in software it applies to unexpected bad luck that seems to keep cropping up.
 
